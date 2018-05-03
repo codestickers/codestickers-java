@@ -8,6 +8,17 @@ way to mark sections of code or add documentation through code annotations.
 
 I wanted to use the annotation without adding an extensive lib like guava.
 
+## How to Use
+
+### Maven
+```
+<dependency>
+  <groupId>com.github.codestickers</groupId>
+  <artifactId>codestickers</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+</dependency>
+```
+
 ## Contributing
 Codestickers is an open source project, and contributions are welcome! Feel free to raise an issue or submit a pull request.
 
