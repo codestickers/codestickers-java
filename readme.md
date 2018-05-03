@@ -14,4 +14,4 @@ Codestickers is an open source project, and contributions are welcome! Feel free
 ## License
 Copyright (c) 2018 by the [Codestickers Team](https://github.com/orgs/codestickers/people).
 
-[Apache License 2.0](license)
+[Apache License 2.0](license.txt)
