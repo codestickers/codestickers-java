@@ -17,6 +17,7 @@ import java.lang.annotation.*;
         ElementType.TYPE_PARAMETER,
         ElementType.TYPE_USE})
 @Documented
+@Repeatable(FixMes.class)
 public @interface FixMe {
     String value() default "";
 }

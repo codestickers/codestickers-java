@@ -17,6 +17,7 @@ import java.lang.annotation.*;
         ElementType.TYPE_PARAMETER,
         ElementType.TYPE_USE})
 @Documented
+@Repeatable(Useds.class)
 public @interface Used {
     String value() default "";
 }
