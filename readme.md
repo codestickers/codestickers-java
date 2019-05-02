@@ -15,7 +15,7 @@ I wanted to use the annotation without adding an extensive lib like guava.
 <dependency>
   <groupId>com.github.codestickers</groupId>
   <artifactId>codestickers</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
 </dependency>
 ```
 
