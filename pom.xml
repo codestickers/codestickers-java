@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.codestickers</groupId>
     <artifactId>codestickers</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>CodeStickers</name>
     <description>A collection of useful java annotations.</description>
@@ -37,7 +36,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/codestickers/codestickers-java.git</developerConnection>
         <connection>scm:git:ssh://git@github.com/codestickers/codestickers-java.git</connection>
-        <tag>HEAD</tag>
+        <tag>codestickers-1.0.2</tag>
         <url>https://github.com/codestickers/codestickers-java.git</url>
     </scm>
     <build>
