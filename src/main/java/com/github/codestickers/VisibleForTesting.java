@@ -1,8 +1,8 @@
 package com.github.codestickers;
 
 /**
- * This annotations marks a program element that it exists
- * or is visible for testing purpose only.
+ * This annotations marks a program element that it is visible
+ * for testing purpose only.
  * <p>
  * (Inspired by the guava annotation with the same name.)
  */
