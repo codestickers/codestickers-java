@@ -1,4 +1,4 @@
-# Codesticker for Java [![Build Status](https://travis-ci.org/codestickers/codestickers-java.svg?branch=master)](https://travis-ci.org/codestickers/codestickers-java) [![Maven Central](https://img.shields.io/maven-central/v/com.github.codestickers/codestickers.svg)](https://search.maven.org/#search%7Cga%7C1%7Ccodestickers) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+# Codesticker for Java [![Build](https://github.com/codestickers/codestickers-java/workflows/build/badge.svg)](https://github.com/codestickers/codestickers-java/actions) [![Maven Central](https://img.shields.io/maven-central/v/com.github.codestickers/codestickers.svg)](https://search.maven.org/#search%7Cga%7C1%7Ccodestickers) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 Codestickers is a collection of Java annotations to document sections of code.
 
