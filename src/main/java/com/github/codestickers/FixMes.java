@@ -17,9 +17,7 @@ import java.lang.annotation.Target;
 		ElementType.CONSTRUCTOR,
 		ElementType.LOCAL_VARIABLE,
 		ElementType.ANNOTATION_TYPE,
-		ElementType.PACKAGE,
-		ElementType.TYPE_PARAMETER,
-		ElementType.TYPE_USE})
+		ElementType.PACKAGE})
 @Documented
 public @interface FixMes
 {

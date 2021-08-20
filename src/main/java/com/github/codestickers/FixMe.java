@@ -1,6 +1,10 @@
 package com.github.codestickers;
 
-import java.lang.annotation.*;
+import java.lang.annotation.Documented;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
 
 /**
  * This annotations marks a fix me.
@@ -13,11 +17,8 @@ import java.lang.annotation.*;
         ElementType.CONSTRUCTOR,
         ElementType.LOCAL_VARIABLE,
         ElementType.ANNOTATION_TYPE,
-        ElementType.PACKAGE,
-        ElementType.TYPE_PARAMETER,
-        ElementType.TYPE_USE})
+        ElementType.PACKAGE})
 @Documented
-@Repeatable(FixMes.class)
 public @interface FixMe {
     String value() default "";
 }

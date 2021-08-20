@@ -2,7 +2,7 @@ name: build
 on:
   push:
     branches:
-      - master
+      - master-jdk7
 jobs:
   build:
     runs-on: ubuntu-20.04
