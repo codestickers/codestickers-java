@@ -19,6 +19,10 @@ I wanted to use the annotation without adding an extensive lib like guava.
 </dependency>
 ```
 
+### Usage example
+
+See [ImportantTest.java](./src/test/java/com/github/codestickers/ImportantTest.java) how to apply codestickers.
+
 ## Contributing
 Codestickers is an open source project, and contributions are welcome! Feel free to raise an issue or submit a pull request.
 
