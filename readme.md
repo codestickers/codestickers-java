@@ -22,7 +22,11 @@ I wanted to use the annotation without adding an extensive lib like guava.
 ## Contributing
 Codestickers is an open source project, and contributions are welcome! Feel free to raise an issue or submit a pull request.
 
-## License
-Copyright (c) 2018-2022 by the [Codestickers Team](https://github.com/orgs/codestickers/people).
+__By creating a pull request you agree that your code will be published under the project [MIT license](./license.txt).__
 
-[Apache License 2.0](license.txt)
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=codestickers/codestickers-java)](https://github.com/codestickers/codestickers-java/graphs/contributors)
+
+## License
+[MIT](license.txt)
