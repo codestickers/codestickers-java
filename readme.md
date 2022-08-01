@@ -15,7 +15,7 @@ I wanted to use the annotation without adding an extensive lib like guava.
 <dependency>
   <groupId>com.github.codestickers</groupId>
   <artifactId>codestickers</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
@@ -23,6 +23,6 @@ I wanted to use the annotation without adding an extensive lib like guava.
 Codestickers is an open source project, and contributions are welcome! Feel free to raise an issue or submit a pull request.
 
 ## License
-Copyright (c) 2018 by the [Codestickers Team](https://github.com/orgs/codestickers/people).
+Copyright (c) 2018-2022 by the [Codestickers Team](https://github.com/orgs/codestickers/people).
 
 [Apache License 2.0](license.txt)
