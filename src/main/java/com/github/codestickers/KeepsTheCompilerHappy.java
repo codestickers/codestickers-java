@@ -18,7 +18,7 @@ import java.lang.annotation.*;
     ElementType.TYPE_PARAMETER,
     ElementType.TYPE_USE})
 @Documented
-public @interface KeepTheCompilerHappy {
+public @interface KeepsTheCompilerHappy {
   String value() default "";
 }
 

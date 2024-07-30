@@ -1,8 +1,8 @@
 package com.github.codestickers;
 
-public class KeepTheCompilerHappyTest {
+public class KeepsTheCompilerHappyTest {
 
-  @KeepTheCompilerHappy("Needs to return something when testing")
+  @KeepsTheCompilerHappy("Needs to return something when testing")
   public static String usesIsTestVariableForWhateverReason(boolean isTest) {
     if (isTest) {
       return "test";
